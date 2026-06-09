@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey! I'm Maneesh Bhandari
-</h1>
-
+<img src="wave.gif" width="35">
 I am driven by curiosity, continuous learning, and the desire to create meaningful solutions through technology. I enjoy exploring new tools, building projects, and turning ideas into practical applications. My interest in problem-solving and analytical thinking motivates me to take on challenges that help me grow both personally and professionally.
 I believe in lifelong learning, collaboration, and sharing knowledge with others. Whether it's working on innovative projects, learning emerging technologies, or improving my skills every day, I am always excited to discover new opportunities that push me beyond my comfort zone and help me make a positive impact.
 

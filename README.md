@@ -1,94 +1,76 @@
-# Hi 👋, I'm Maneesh Bhandari
+## 🌐 Socials
 
-### Aspiring Data Analyst | Power BI | SQL | Excel | Python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maneesh-bhandari/)
 
-I'm a passionate Data Analyst Fresher focused on transforming raw data into meaningful insights through data visualization, reporting, and analytics. I enjoy working with Power BI, SQL, Excel, and Python to solve business problems and create interactive dashboards.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/mr_bhandari_22?igsh=bnQ4ZjczdzMxb3dx)
 
----
-
-## 🚀 About Me
-
-* 📊 Aspiring Data Analyst
-* 💡 Interested in Business Intelligence and Data Analytics
-* 📈 Skilled in Power BI, SQL, Excel, and Python
-* 🌱 Currently improving my Data Analytics and AI skills
-* 🎯 Seeking opportunities in Data Analytics, Business Intelligence, and Reporting
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:maneeshbhandari23@gmail.com)
 
 ---
 
-## 🛠️ Skills
+# 👋 Hey there, I'm Maneesh Bhandari!
 
-### Data Analytics
+### 📊 Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
-* Data Cleaning
-* Data Visualization
-* Data Analysis
-* Dashboard Development
-* KPI Tracking
-* Reporting
+I'm passionate about transforming raw data into meaningful insights through dashboards, reports, and analytics solutions.
 
-### Tools & Technologies
+### 🚀 What You'll Find Here
 
-* Power BI
-* SQL
-* Microsoft Excel
-* Python
-* MySQL
-* Git & GitHub
+* 📊 Power BI Dashboard Projects
+* 🗄️ SQL Projects
+* 📈 Data Analytics Case Studies
+* 🐍 Python for Data Analysis
+* 💼 Portfolio Projects
+* 📚 Continuous Learning Journey
+
+---
+
+## 💻 Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi\&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?logo=mysql\&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel\&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 📱 PhonePe Transaction Analysis Dashboard
+### 📱 PhonePe Power BI Dashboard
 
-* Built an interactive Power BI dashboard to analyze PhonePe transactions.
-* Monitored transaction volume, successful transactions, and failed payments.
-* Created service-wise insights for Insurance, Loans, Money Transfer, and Recharge & Bills.
-* Used DAX measures, slicers, KPIs, and interactive visualizations.
+Interactive dashboard for analyzing PhonePe transactions, failed payments, KPIs, and service performance.
 
-### 📈 Sales Dashboard
+### 📈 Sales Performance Dashboard
 
-* Analyzed sales performance across products and regions.
-* Created KPIs for Revenue, Profit, and Sales Growth.
-* Designed dynamic reports using Power BI.
+Business intelligence dashboard for sales analysis and KPI tracking.
 
 ### 🌦️ Weather Dashboard
 
-* Built a Power BI dashboard using Weather API data.
-* Visualized temperature, humidity, wind speed, and weather forecasts.
-* Created real-time weather monitoring reports.
+Real-time weather dashboard using API integration and Power BI visualizations.
 
 ---
 
-## 📊 Technical Skills
+## 📊 GitHub Stats
 
-| Skill        | Level |
-| ------------ | ----- |
-| Power BI     | ⭐⭐⭐⭐  |
-| SQL          | ⭐⭐⭐⭐  |
-| Excel        | ⭐⭐⭐⭐  |
-| Python       | ⭐⭐⭐   |
-| Git & GitHub | ⭐⭐⭐   |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbhandari63\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbhandari63\&layout=compact\&theme=github_dark)
 
 ---
 
-## 📜 Certifications
+### 🎯 Current Focus
 
-* Certification Program in Data Analytics with AI & Gen AI
-* Power BI for Data Analytics
-* SQL for Data Analysis
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/your-linkedin-profile](http://www.linkedin.com/in/your-linkedin-profile)
-* GitHub: https://github.com/mrbhandari63
-
----
-
-### 💡 Career Objective
-
-Aspiring Data Analyst with hands-on experience in Power BI, SQL, Excel, and Python. Passionate about analyzing data, building dashboards, and generating business insights to support data-driven decision-making.
-
+* Data Analytics
+* Power BI Dashboard Development
+* SQL Query Optimization
+* Python for Data Analysis
+* Business Intelligence

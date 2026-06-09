@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm Maneesh Bhandari</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey! I'm Maneesh Bhandari
+</h1>
 
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python | Business Intelligence</h3>
----
+I am driven by curiosity, continuous learning, and the desire to create meaningful solutions through technology. I enjoy exploring new tools, building projects, and turning ideas into practical applications. My interest in problem-solving and analytical thinking motivates me to take on challenges that help me grow both personally and professionally.
+I believe in lifelong learning, collaboration, and sharing knowledge with others. Whether it's working on innovative projects, learning emerging technologies, or improving my skills every day, I am always excited to discover new opportunities that push me beyond my comfort zone and help me make a positive impact.
 
-## 🚀 About Me
-
-* 📊 Aspiring Data Analyst with hands-on experience in Power BI, SQL, Excel, and Python.
-* 📈 Skilled in data cleaning, data visualization, dashboard development, and business reporting.
-* 💡 Interested in Data Analytics, Business Intelligence, AI, and Machine Learning.
-* 🌱 Continuously learning advanced analytics and modern data technologies.
-* 🎯 Seeking opportunities to apply analytical skills and contribute to business growth through data-driven insights.
-
----
 
 ## 🌐 Connect With Me
 

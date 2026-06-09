@@ -3,18 +3,18 @@
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python | Business Intelligence</h3>
 
 <p align="center">
-Passionate about transforming data into actionable insights through analytics, dashboards, and data-driven decision making.
+Passionate about transforming raw data into meaningful insights through analytics, visualization, and data-driven decision making.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 📊 Aspiring Data Analyst with hands-on experience in Power BI, SQL, Excel, and Python
-* 📈 Interested in Data Analytics, Business Intelligence, and Reporting
-* 🌱 Currently learning AI, Machine Learning, and Advanced Analytics
-* 💡 Enjoy building interactive dashboards and solving business problems using data
-* 🎯 Actively seeking opportunities in Data Analytics and Business Intelligence
+* 📊 Aspiring Data Analyst with hands-on experience in Power BI, SQL, Excel, and Python.
+* 📈 Skilled in data cleaning, data visualization, dashboard development, and business reporting.
+* 💡 Interested in Data Analytics, Business Intelligence, AI, and Machine Learning.
+* 🌱 Continuously learning advanced analytics and modern data technologies.
+* 🎯 Seeking opportunities to apply analytical skills and contribute to business growth through data-driven insights.
 
 ---
 
@@ -38,47 +38,25 @@ Passionate about transforming data into actionable insights through analytics, d
 
 ## 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4B8BBE?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
@@ -86,19 +64,27 @@ Passionate about transforming data into actionable insights through analytics, d
 
 ### 📱 PhonePe Transaction Analytics Dashboard
 
-* Developed a 5-page Power BI dashboard to analyze PhonePe transaction data.
-* Tracked KPIs including Total Amount, Total Transactions, Success Rate, and Failed Payments.
-* Created interactive visualizations for Insurance, Loans, Money Transfer, and Recharge & Bills services.
+* Built a 5-page Power BI dashboard to analyze transaction trends and payment performance.
+* Developed KPIs for Total Amount, Total Transactions, Successful Transactions, and Failed Payments.
+* Created interactive reports for Insurance, Loans, Money Transfer, and Recharge & Bills services using DAX and Power BI.
 
 ### 📈 Sales Performance Dashboard
 
-* Designed interactive dashboards to monitor sales trends, revenue, and profitability.
-* Built KPI cards, slicers, and drill-down reports for business insights.
+* Designed dynamic dashboards to monitor revenue, sales growth, profitability, and regional performance.
+* Implemented KPI tracking and interactive filters to support business decision-making.
 
 ### 🌦️ Weather Analytics Dashboard
 
-* Integrated weather API data into Power BI.
-* Built dynamic visualizations for temperature, humidity, wind speed, and forecast analysis.
+* Integrated weather API data into Power BI for real-time weather monitoring.
+* Developed visual reports for temperature, humidity, wind speed, and forecast analysis.
+
+---
+
+## 🏆 Certifications
+
+* Certification Program in Data Analytics with AI & Gen AI
+* Power BI for Data Analytics
+* SQL for Data Analysis
 
 ---
 
@@ -112,6 +98,6 @@ Passionate about transforming data into actionable insights through analytics, d
 
 ## 🎯 Career Objective
 
-Aspiring Data Analyst with strong foundations in Power BI, SQL, Excel, and Python. Passionate about leveraging data analytics and visualization to solve business problems and support data-driven decision-making.
+Aspiring Data Analyst with a strong foundation in Power BI, SQL, Excel, and Python. Passionate about leveraging analytics, visualization, and business intelligence tools to uncover insights, solve real-world problems, and support data-driven decision-making.
 
-⭐ Explore my repositories to see my projects and learning journey.
+⭐ Feel free to explore my repositories and connect with me.

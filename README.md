@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maneesh Bhandari</h1>
 
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python | Business Intelligence</h3>
-
-<p align="center">
-Passionate about transforming raw data into meaningful insights through analytics, visualization, and data-driven decision making.
-</p>
-
 ---
 
 ## 🚀 About Me

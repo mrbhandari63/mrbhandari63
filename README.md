@@ -58,41 +58,7 @@ Passionate about transforming raw data into meaningful insights through analytic
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
 
-## 📂 Featured Projects
-
-### 📱 PhonePe Transaction Analytics Dashboard
-
-* Built a 5-page Power BI dashboard to analyze transaction trends and payment performance.
-* Developed KPIs for Total Amount, Total Transactions, Successful Transactions, and Failed Payments.
-* Created interactive reports for Insurance, Loans, Money Transfer, and Recharge & Bills services using DAX and Power BI.
-
-### 📈 Sales Performance Dashboard
-
-* Designed dynamic dashboards to monitor revenue, sales growth, profitability, and regional performance.
-* Implemented KPI tracking and interactive filters to support business decision-making.
-
-### 🌦️ Weather Analytics Dashboard
-
-* Integrated weather API data into Power BI for real-time weather monitoring.
-* Developed visual reports for temperature, humidity, wind speed, and forecast analysis.
-
----
-
-## 🏆 Certifications
-
-* Certification Program in Data Analytics with AI & Gen AI
-* Power BI for Data Analytics
-* SQL for Data Analysis
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbhandari63\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbhandari63\&layout=compact)
 
 ---
 

@@ -1,8 +1,17 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Maneesh Bhandari
 </h1>
-I am driven by curiosity, continuous learning, and the desire to create meaningful solutions through technology. I enjoy exploring new tools, building projects, and turning ideas into practical applications. My interest in problem-solving and analytical thinking motivates me to take on challenges that help me grow both personally and professionally.
-I believe in lifelong learning, collaboration, and sharing knowledge with others. Whether it's working on innovative projects, learning emerging technologies, or improving my skills every day, I am always excited to discover new opportunities that push me beyond my comfort zone and help me make a positive impact.
+## 💫 About Me
+
+🔹 Passionate about learning and exploring new technologies
+
+🔹 Strong interest in problem-solving and analytical thinking
+
+🔹 Enjoy building innovative projects and practical solutions
+
+🔹 Committed to continuous learning and professional growth
+
+🔹 Open to collaboration and new opportunities
 
 
 ## 🌐 Connect With Me

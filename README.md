@@ -44,13 +44,3 @@ I am driven by curiosity, continuous learning, and a passion for building meanin
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-
-
----
-
-## 🎯 Career Objective
-
-Aspiring Data Analyst with a strong foundation in Power BI, SQL, Excel, and Python. Passionate about leveraging analytics, visualization, and business intelligence tools to uncover insights, solve real-world problems, and support data-driven decision-making.
-
-⭐ Feel free to explore my repositories and connect with me.

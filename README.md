@@ -1,10 +1,19 @@
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maneesh-bhandari/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/maneesh-bhandari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/mr_bhandari_22?igsh=bnQ4ZjczdzMxb3dx)
+  <a href="https://www.instagram.com/mr_bhandari_22?igsh=bnQ4ZjczdzMxb3dx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:maneeshbhandari23@gmail.com)
+  <a href="mailto:maneeshbhandari23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 

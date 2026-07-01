@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Maneesh Bhandari
 </h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 I am driven by curiosity, continuous learning, and a passion for building meaningful solutions through technology. I enjoy exploring new tools, working on innovative projects, and transforming ideas into practical applications that create value. My problem-solving mindset, adaptability, and commitment to personal growth motivate me to take on new challenges and continuously improve my skills. I believe in collaboration, knowledge sharing, and lifelong learning, and I am always excited to explore opportunities that help me grow both professionally and personally.
 
